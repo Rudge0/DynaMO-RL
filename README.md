@@ -142,7 +142,7 @@ where $f(\cdot)$ is a sigmoid-based decay function.
 
 ## 🔧 Implementation Details
 
-- **Dynamic Rollout Allocation**: Implemented in `recipe/dynamo/dynamo_ray_trainer.py` via `get_rollout_n_per_prompt` function.
+- **Dynamic Rollout Allocation**: Implemented in `recipe/dynamo/dynamo_ray_trainer.py` via `get_rollout_n_per_prompt` function. You can enable it in the example script with `+actor_rollout_ref.rollout.rollout_allocation=True` and tune bounds via `n_low` / `n_high` (e.g. `+actor_rollout_ref.rollout.n_low=8` and `+actor_rollout_ref.rollout.n_high=24`).
 - **Gradient-Aware Advantage Modulation**: Implemented in `verl/workers/actor/dp_actor.py` inside `update_policy` and `_compute_entropy_estimation`.
 
 ## 📚 Citation
